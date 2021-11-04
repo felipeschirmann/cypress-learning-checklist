@@ -23,6 +23,7 @@ O Cypress Learning Checklist é uma lista com comandos do Cypress organizados po
 
 <p align="center">Pra te ajudar a lembrar o que já estudou ou não, criei  <strong><a href="https://www.notion.so/Cypress-Learning-Checklist-2e9ee8cd9b4e42809deedea597710079">esse template no Notion</a>.</strong> Use para te ajudar a revisar ⚡️ </p>
 
+https://www.youtube.com/playlist?list=PLnUo-Rbc3jjztMO4K8b-px4NE-630VNKY
 
 ### Comandos ⭐️⭐️⭐️
 
